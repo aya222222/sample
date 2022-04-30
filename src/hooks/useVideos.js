@@ -23,5 +23,4 @@ const useVideos = (defaultSearchTerm) => {
 
 }
 
-
 export default useVideos
