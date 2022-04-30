@@ -29,5 +29,4 @@ className="ui form">
 </div>)
 }
 
-
 export default SearchBar
